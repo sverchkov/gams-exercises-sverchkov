@@ -1,2 +1,2 @@
 # gams-exercises-sverchkov
-Trying out GAMS
+Trying out [GAMS](https://www.gams.com)
