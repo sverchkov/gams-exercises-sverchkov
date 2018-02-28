@@ -18,6 +18,6 @@ Questions
 ---------
 
 * When to use compilation load vs execution load?
-** Looks like compilation load won't load new sets?
+* * Looks like compilation load won't load new sets?
 * Should we always be using the `_dc` versions?
 
